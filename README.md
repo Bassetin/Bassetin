@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/W80BMjM.png" alt="Lucas Rodrigo Basseto de Sousa - Samurai Banner" width="100%" />
 </p>
-
+---
 <h1 align="center">🥷 Lucas Rodrigo Basseto de Sousa</h1>
 <h2 align ="center"> Desenvolvedor de Software</h2>
 
