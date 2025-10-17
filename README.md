@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">🥷 Lucas Rodrigo Basseto de Sousa</h1>
-<h2 align ="center"> Desenvolvedor de Software</h2>
+<h2 align="center"><i>Desenvolvedor de Software</i></h2>
+
 
 ## 🏯 Sobre Mim
 
@@ -77,9 +78,13 @@ Manutenção e segurança das instalações.
 
 ---
 
+
 ## 🐉 Conecte-se Comigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-rodrigo-123936287/)
 - 📧 bassetolucas.dev@gmail.com
 - 📱 (21) 98599-2805
 
+---
+
+![Visitantes](https://komarev.com/ghpvc/?username=Bassetin&color=red)
