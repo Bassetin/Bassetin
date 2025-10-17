@@ -7,11 +7,13 @@
 
 ## 🏯 Sobre Mim
 
-🎓 Estudante de Ciências da Computação (5º período)  
-📍 Duque de Caxias - RJ  
-📧 bassetolucas.dev@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/lucas-rodrigo-123936287/)  
-📱 (21) 98599-2805  
+Olá! Me chamo Lucas Rodrigo Basseto de Sousa, sou estudante de Ciências da Computação e apaixonado por tecnologia, lógica e desafios. Atualmente estou no 5º período da graduação e venho desenvolvendo habilidades em linguagens como Java, Python, C# e JavaScript, além de conhecimentos em banco de dados, redes, sistemas operacionais e desenvolvimento web.
+
+Tenho experiência como professor de inglês, informática e programação, o que me ajudou a desenvolver uma comunicação clara, paciência e empatia — habilidades que levo para qualquer equipe ou projeto. Também servi no Exército Brasileiro, onde aprendi disciplina, foco e resiliência.
+
+Sou movido pela curiosidade e pela vontade de aprender. Gosto de transformar ideias em soluções e de enfrentar cada projeto como um novo combate — com estratégia, dedicação e código afiado.
+
+Seja bem-vindo ao meu dojo digital! 🥷💻
 
 ---
 
