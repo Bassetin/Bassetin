@@ -2,63 +2,82 @@
   <img src="https://i.imgur.com/wrnTrSL.jpeg" alt="Lucas Rodrigo Basseto de Sousa - Banner" width="100%" />
 </p>
 
-<h1 align="center">🥷 Lucas Rodrigo Basseto de Sousa</h1>
-<h2 align="center"><i>Desenvolvedor de Software</i></h2>
+<h1 align="center">🎮 Lucas Rodrigo Basseto de Sousa</h1>
+<h2 align="center"><i>Game Designer & Game Developer</i></h2>
 
-
-## 🏯 Sobre Mim
-
-Olá! Me chamo Lucas Rodrigo Basseto de Sousa, sou estudante de Ciências da Computação e apaixonado por tecnologia, lógica e desafios. Atualmente estou no 6º período da graduação e venho desenvolvendo habilidades em linguagens como Java, Python, C# e JavaScript, além de conhecimentos em banco de dados, redes, sistemas operacionais e desenvolvimento web.
-
-Tenho experiência como professor de inglês, informática e programação, o que me ajudou a desenvolver uma comunicação clara, paciência e empatia. Habilidades que levo para qualquer equipe ou projeto. Também servi no Exército Brasileiro, onde aprendi disciplina, foco e resiliência.
-
-Sou movido pela curiosidade e pela vontade de aprender. Gosto de transformar ideias em soluções e de enfrentar cada projeto como um novo combate com estratégia, dedicação e código afiado.
-
-Seja bem-vindo ao meu dojo digital! 🥷💻
+<p align="center">
+  <img src="https://img.shields.io/badge/Game%20Design-Systems%20%7C%20Level%20%7C%20UI%2FUX-8A2BE2?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Engine-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
 
 ---
 
-## ⚔️ Habilidades Técnicas
+## 🕹️ Sobre Mim
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Olá! Sou Lucas, estudante de Ciências da Computação no 6º período e desenvolvedor de jogos apaixonado por criar experiências interativas memoráveis. Meu foco está em **Systems Design**, **Level Design** e **UI/UX para jogos** — sempre buscando o equilíbrio entre mecânicas divertidas e experiências intuitivas para o jogador.
+
+Tenho experiência como professor de inglês e programação, o que me deu uma visão clara de **como as pessoas aprendem e interagem com sistemas** — habilidade essencial para qualquer game designer. Também servi no Exército Brasileiro, onde desenvolvi disciplina, foco sob pressão e raciocínio estratégico.
+
+Jogo, construo, analiso e itero. Bem-vindo ao meu arsenal de projetos! 🎯
+
+---
+
+## 🎯 Áreas de Interesse em Game Design
+
+| Área | O que faço |
+|---|---|
+| ⚙️ **Systems Design** | Criação de mecânicas, loops de gameplay e sistemas de progressão |
+| 🗺️ **Level Design** | Arquitetura de fases com foco em fluxo, desafio e narrativa espacial |
+| 🖥️ **UI/UX para Jogos** | Interfaces que guiam o jogador sem tirar a imersão |
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+**Game Development**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+**Linguagens & Ferramentas**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🧠 Soft Skills
-
-- Proatividade e comprometimento  
-- Comunicação clara  
-- Trabalho em equipe e sob pressão  
-- Atenção aos detalhes  
-- Vontade de aprender e se adaptar
-
----
-
-## 🧑‍🏫 Experiência
-
-**Enjoy Inglês Profissionalizante**  
-Professor de inglês, informática, programação e mídias sociais.  
-Responsável por estratégias de retenção de alunos e palestras.
-
-**Exército Brasileiro**  
-Manutenção e segurança das instalações.
-
----
-
-## 🧪 Dojo de Projetos
+## 🎮 Projetos
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bassetin&repo=Libris--Recomendation-IA&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bassetin&repo=AeroFighters&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bassetin&repo=Libris--Recomendation-IA&theme=tokyonight" />
 </p>
+
+> 💡 **AeroFighters** — Shooter 2D inspirado no clássico do Super Nintendo, desenvolvido do zero em **Java puro com Swing**, sem nenhuma engine. Implementei game loop com delta time, sistema de colisões, animações por spritesheet, screen shake, power-ups, boss com 2 fases e ondas infinitas com dificuldade progressiva. Projeto que me ensinou threads, arquitetura OOP e como jogos funcionam por baixo dos panos.
+
+---
+
+## 🧠 Soft Skills
+
+- Inglês Avançado (leitura técnica, comunicação com equipes internacionais)
+- Pensamento sistêmico e visão de game feel
+- Comunicação clara e didática
+- Trabalho em equipe e resiliência sob pressão
+- Análise crítica de jogos e iteração contínua
+
+---
+
+## 🧑‍💼 Experiência
+
+**Enjoy Inglês Profissionalizante**
+Professor de inglês, informática e programação.
+Desenvolvimento de estratégias de engajamento e retenção de clientes. Habilidades diretamente aplicáveis ao design de onboarding e tutoriais em jogos.
+
+**Exército Brasileiro**
+Disciplina operacional, foco sob pressão e gestão de responsabilidades críticas.
 
 ---
 
@@ -71,15 +90,15 @@ Manutenção e segurança das instalações.
 
 ---
 
-## 🍃 Filosofia Ninja
+## 💬 Design Philosophy
 
-> “A persistência é o caminho do êxito.” — Miyamoto Musashi  
-> “Código limpo é como uma katana bem afiada: preciso, elegante e letal.”
+> *"Um bom jogo não precisa ser explicado — ele ensina enquanto diverte."*
+>
+> *"Cada mecânica é um contrato com o jogador. Cumpra-o com elegância."*
 
 ---
 
-
-## 🐉 Conecte-se Comigo
+## 🌐 Conecte-se Comigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-rodrigo-123936287/)
 - 📧 bassetolucas.dev@gmail.com
@@ -87,4 +106,4 @@ Manutenção e segurança das instalações.
 
 ---
 
-![Visitantes](https://komarev.com/ghpvc/?username=Bassetin&color=red)
+![Visitantes](https://komarev.com/ghpvc/?username=Bassetin&color=8A2BE2)
