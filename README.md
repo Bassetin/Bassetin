@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/p06LToB" alt="Lucas Rodrigo Basseto de Sousa - Banner" width="100%" />
+  <img src="https://i.imgur.com/wrnTrSL.jpeg" alt="Lucas Rodrigo Basseto de Sousa - Banner" width="100%" />
 </p>
 
 <h1 align="center">🥷 Lucas Rodrigo Basseto de Sousa</h1>
