@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/W80BMjM.png" alt="Lucas Rodrigo Basseto de Sousa - Samurai Banner" width="100%" />
+  <img src="https://imgur.com/a/p06LToB" alt="Lucas Rodrigo Basseto de Sousa - Banner" width="100%" />
 </p>
 
 <h1 align="center">🥷 Lucas Rodrigo Basseto de Sousa</h1>
@@ -57,7 +57,7 @@ Manutenção e segurança das instalações.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bassetin&repo=Libris--Recomendation-IA&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bassetin&repo=Vota-oGranderio&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bassetin&repo=AeroFighters&theme=tokyonight" />
 </p>
 
 ---
